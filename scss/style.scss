@@ -1,0 +1,14 @@
+@use "custom";
+@use "./fontawesome.scss";
+@use "./components/animations";
+@use "./components/buttons";
+@use "./components/mixins";
+@use "./components/typography";
+
+@use "./sections/navbar";
+@use "./sections/introduction";
+@use "./sections/campanies";
+@use "./sections/services";
+@use "./sections/testimonials";
+@use "./sections/get-started";
+@use "./sections/footer";
